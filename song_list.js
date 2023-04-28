@@ -1,40 +1,40 @@
 //song list
 let All_song = [
    {
-     name: "Make Me Move",
+     name: "Niwezeshe",
      path: "music/1.mp3",
      img: "images/1.jpg",
-     singer: "NoCopyrightSounds [NCS]"
+     singer: "Mélanie Kitwana"
    },
    {
-     name: "Beauz & Jvna - Crazy",
+     name: "Niache Ni Wwite",
      path: "music/2.mp3",
      img: "images/2.jpg",
-     singer: "NoCopyrightSounds"
+     singer: "Mélanie Kitwana"
    },
    {
-     name: "Skydive -Loxbeats",
+     name: "Vuta Subira",
      path: "music/3.mp3",
      img: "images/3.jpg",
-     singer: "Audio Library"
+     singer: "Mélanie Kitwana"
    },
    {
-     name: "Shahed -Indian Fusion",
+     name: "Tawala",
      path: "music/4.mp3",
      img: "images/4.jpg",
-     singer: "imshahed"
+     singer: "Mélanie Kitwana"
    },
    {
-     name: "Syn Cole - Feel Good",
+     name: "Uwe Na Amani",
      path: "music/5.mp3",
      img: "images/5.jpg",
-     singer: "NoCopyrightSounds"
+     singer: "Mélanie Kitwana"
    },
    {
-    name: "Yusuf Alev - Yoros",
+    name: "Safari",
     path: "music/6.mp3",
     img: "images/1.jpg",
-    singer: "Magic Free Release"
+    singer: "Mélanie Kitwana"
    }
 ];
 /*you can add more song & images from you computer*/
