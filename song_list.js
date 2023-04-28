@@ -4,10 +4,10 @@ let All_song = [
      name: "Niwezeshe",
      path: "music/1.mp3",
      img: "images/1.jpg",
-     singer: "Mélanie Kitwana"
+     singer: "Mélanie Kitwana feat. Prince Mulidwa"
    },
    {
-     name: "Niache Ni Wwite",
+     name: "Niache Ni Wite",
      path: "music/2.mp3",
      img: "images/2.jpg",
      singer: "Mélanie Kitwana"
