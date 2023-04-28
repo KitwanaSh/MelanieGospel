@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&display=swap');
-@media (min-width: 320px) {
-    *{
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: 'poppins',sans-serif;
-        font-size: 30px;
-    }
-    body{
-        display: grid;
-        place-items: center;
-        min-height: 100vh;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    font-size: 30px;
+}
+body{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
 /*        height: 100vh;*/
-    }
+}
+@media only screen and (min-device-width: 320px) {
+
     .main{
         position: relative;
         overflow: hidden;
