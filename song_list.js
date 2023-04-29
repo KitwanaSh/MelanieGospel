@@ -56,7 +56,7 @@ for (let i = 0; i < All_song.length; i++) {
          <p id="title">${All_song[i].name}</p>
          <p>${All_song[i].singer}</p>
       </div>
-      <button id="play_btn"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+      <button id="play_btn"><i class="fa fa-play" aria-hidden="true"></i></button>
       </div>
     </div>`;
 
