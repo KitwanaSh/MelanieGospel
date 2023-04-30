@@ -42,6 +42,9 @@ let All_song = [
 
 /*tracks*/
 let tracks = document.querySelector('.tracks');
+let searchBtn = document.getElementById("search-btn");
+let searchSongs = document.getElementById("search-songs")
+let songValue
 
 //creating a list or generating Html
 for (let i = 0; i < All_song.length; i++) {
@@ -63,5 +66,26 @@ for (let i = 0; i < All_song.length; i++) {
   tracks.insertAdjacentHTML("beforeend", Html);
 };
 
-
-/*please follow all the rules so that you do not face any problem*/
+/* search bar function */
+const handleSearch = () => {
+    songValue = searchSongs.value
+    for (let i = 0; i < All_song.length; i++) {
+        if (songValue === All_song) {
+            let songs = `<div class="song">
+          <div class="img">
+          <img src="${All_song[i].img}"/>
+          </div>
+          <div class="more">
+          <audio src="${All_song[i].path}" id="music"></audio>
+          <div class="song_info">
+             <p id="title">${All_song[i].name}</p>
+             <p>${All_song[i].singer}</p>
+          </div>
+          <button id="play_btn"><i class="fa fa-play" aria-hidden="true"></i></button>
+          </div>
+        </div>`;
+            
+        }   
+    }
+}
+searchBtn.addEventListener("click", handleSearch)
