@@ -35,6 +35,48 @@ let All_song = [
     path: "music/6.mp3",
     img: "images/1.jpg",
     singer: "Mélanie Kitwana"
+   },
+    {
+    name: "Ingiliya kati",
+    path: "music/7.mp3",
+    img: "images/1.jpg",
+    singer: "Mélanie Kitwana"
+   },
+    {
+    name: "Atafany njia",
+    path: "music/8.mp3",
+    img: "images/1.jpg",
+    singer: "Mélanie Kitwana"
+   },
+    {
+    name: "Ebeneza",
+    path: "music/9.mp3",
+    img: "images/1.jpg",
+    singer: "Mélanie Kitwana"
+   },
+    {
+    name: "Jipe raha",
+    path: "music/11.mp3",
+    img: "images/1.jpg",
+    singer: "Mélanie Kitwana"
+   },
+    {
+    name: "Kuna Ushindi",
+    path: "music/12.mp3",
+    img: "images/1.jpg",
+    singer: "Mélanie Kitwana"
+   },
+    {
+    name: "Kwa Injili tuna fahulu",
+    path: "music/13.mp3",
+    img: "images/1.jpg",
+    singer: "Mélanie Kitwana"
+   },
+    {
+    name: "Karibu nawe",
+    path: "music/14.mp3",
+    img: "images/1.jpg",
+    singer: "Mélanie Kitwana"
    }
 ];
 /*you can add more song & images from you computer*/
