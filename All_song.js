@@ -137,6 +137,12 @@ let All_song = [
         path: "music/25.mp3",
         img: "images/1.jpg",
         singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Uwe na amani",
+        path: "music/26.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
     }
  ];
 
