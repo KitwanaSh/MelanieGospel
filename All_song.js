@@ -89,12 +89,18 @@ let All_song = [
         path: "music/16.mp3",
         img: "images/1.jpg",
         singer: "Mélanie Kitwana"
-    }
+    },
     {
         name: "Yupo mungu",
         path: "music/17.mp3",
         img: "images/1.jpg",
         singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Asante baba",
+        path: "music/18.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana feat. Rebecca"
     }
  ];
 
