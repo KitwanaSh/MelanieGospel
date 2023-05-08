@@ -83,6 +83,12 @@ let All_song = [
         path: "music/15.mp3",
         img: "images/1.jpg",
         singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Wa shangaza",
+        path: "music/16.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
     }
  ];
 

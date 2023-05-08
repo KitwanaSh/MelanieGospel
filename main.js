@@ -1,4 +1,5 @@
 
+import All_song from "./All_song.js";
 let btn = document.querySelectorAll('.song #play_btn');
 let song = document.querySelectorAll('#music');
 
