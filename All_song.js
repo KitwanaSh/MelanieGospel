@@ -143,6 +143,18 @@ let All_song = [
         path: "music/26.mp3",
         img: "images/1.jpg",
         singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Ni fanye mapenzi yako",
+        path: "music/27.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Arusi ya bwana",
+        path: "music/28.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
     }
  ];
 
