@@ -97,10 +97,22 @@ let All_song = [
         singer: "Mélanie Kitwana"
     },
     {
-        name: "Asante baba",
-        path: "music/18.mp3",
+        name: "Naza na Nzambe",
+        path: "music/19.mp3",
         img: "images/1.jpg",
-        singer: "Mélanie Kitwana feat. Rebecca"
+        singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Sanjola",
+        path: "music/20.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Sema nami bwana",
+        path: "music/21.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
     }
  ];
 
