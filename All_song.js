@@ -113,6 +113,30 @@ let All_song = [
         path: "music/21.mp3",
         img: "images/1.jpg",
         singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Sifu Mungu",
+        path: "music/22.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Tugange Myoyo",
+        path: "music/23.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Uko Mwema",
+        path: "music/24.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
+    },
+    {
+        name: "Uwe Makini",
+        path: "music/25.mp3",
+        img: "images/1.jpg",
+        singer: "Mélanie Kitwana"
     }
  ];
 
